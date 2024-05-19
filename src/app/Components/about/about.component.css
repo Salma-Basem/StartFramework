@@ -1,0 +1,23 @@
+.bg-main
+{
+    background-color: #5CBD9D;
+}
+.icon::before
+{  content: ' ';
+    border-bottom:solid white 3px;
+    width:70px; 
+    display:inline-block; 
+    
+ 
+    
+
+}
+
+.icon::after
+{  content: ' ';
+    border-bottom:solid white 3px;
+    width:70px; 
+    display:inline-block; 
+    
+
+}

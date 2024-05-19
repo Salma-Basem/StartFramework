@@ -1,0 +1,27 @@
+.bg-main
+{
+    color: #2C3E50;
+}
+.icon::before
+{  content: ' ';
+    border-bottom:solid #2C3E50 3px;
+    width:70px; 
+    display:inline-block;
+}
+
+.icon::after
+{  content: ' ';
+    border-bottom:solid #2C3E50 3px;
+    width:70px; 
+    display:inline-block; 
+
+}
+.text-input
+{
+    color:#57AC94;
+}
+.btn-bg
+{
+    background-color: #57AC94;
+}
+
